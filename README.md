@@ -1,2 +1,3 @@
-# semantic_speech_emotion_recognition
-This repository contains the code for our paper `Speech Emotion Recognition using Semantic Information`.
+# Speech Emotion Recognition using Semantic Information
+
+This repository contains the code for our paper `Speech Emotion Recognition using Semantic Information` (ICASSP 2021).
