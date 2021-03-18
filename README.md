@@ -1,6 +1,6 @@
 # Speech Emotion Recognition using Semantic Information
 
-This repository provides training and evaluation code for paper `Speech Emotion Recognition using Semantic Information` (ICASSP 2021). If you use this codebase in your experiments please cite:
+This repository provides training and evaluation code for the paper [`Speech Emotion Recognition using Semantic Information`](https://arxiv.org/pdf/2103.02993.pdf) (ICASSP 2021). If you use this codebase in your experiments please cite:
 
 `Tzirakis, P., Nguyen, A., Zafeiriou, S., & Schuller, B. W. (2021). Speech Emotion Recognition using Semantic Information. arXiv preprint arXiv:2103.02993.`
 
